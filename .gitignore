@@ -1,0 +1,16 @@
+# Minecraft session lock file
+session.lock
+
+# MacOS specific files
+.DS_Store
+
+# Replay Mod
+replay_recordings/
+
+# Dimensions (The End is huge - 11k files)
+DIM1/
+DIM-1/
+
+# Generated Data that might be re-generated (Optional - aggressive)
+# poi/
+

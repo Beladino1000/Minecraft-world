@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:redstone_torch": 1,
+      "minecraft:lever": 5,
+      "minecraft:mud": 1,
+      "minecraft:target": 1,
+      "minecraft:big_dripleaf": 1
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 2,
+      "minecraft:repeater": 43,
+      "minecraft:lever": 29,
+      "minecraft:redstone_block": 59,
+      "minecraft:observer": 70,
+      "minecraft:redstone": 82,
+      "minecraft:dispenser": 1,
+      "minecraft:mud": 2,
+      "minecraft:tnt": 2,
+      "minecraft:sticky_piston": 83,
+      "minecraft:calibrated_sculk_sensor": 4,
+      "minecraft:glass": 9,
+      "minecraft:redstone_torch": 43,
+      "minecraft:powered_rail": 20,
+      "minecraft:target": 8,
+      "minecraft:sandstone": 288,
+      "minecraft:activator_rail": 20,
+      "minecraft:big_dripleaf": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:big_dripleaf": 1,
+      "minecraft:target": 1,
+      "minecraft:dispenser": 1,
+      "minecraft:redstone_torch": 2,
+      "minecraft:mud": 1,
+      "minecraft:tnt": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 87071,
+      "minecraft:inspect_dropper": 8,
+      "minecraft:walk_one_cm": 36502,
+      "minecraft:leave_game": 2,
+      "minecraft:play_time": 87071,
+      "minecraft:jump": 112,
+      "minecraft:time_since_death": 87071,
+      "minecraft:drop": 7,
+      "minecraft:sprint_one_cm": 4943,
+      "minecraft:open_chest": 2,
+      "minecraft:inspect_hopper": 4,
+      "minecraft:tune_noteblock": 16,
+      "minecraft:total_world_time": 87071,
+      "minecraft:fly_one_cm": 505303,
+      "minecraft:crouch_one_cm": 1231,
+      "minecraft:sneak_time": 1575
+    }
+  },
+  "DataVersion": 4671
+}

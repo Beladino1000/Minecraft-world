@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:copper_ingot": 2,
+      "minecraft:shulker_shell": 1
+    },
+    "minecraft:used": {
+      "minecraft:copper_golem_spawn_egg": 1,
+      "minecraft:dragon_egg": 1,
+      "minecraft:netherite_axe": 4,
+      "minecraft:tnt": 1,
+      "minecraft:soul_sand": 2,
+      "minecraft:water_bucket": 12,
+      "minecraft:sticky_piston": 1,
+      "minecraft:shulker_spawn_egg": 1,
+      "minecraft:flint_and_steel": 2,
+      "minecraft:spruce_trapdoor": 4,
+      "minecraft:oak_pressure_plate": 2,
+      "minecraft:lime_wool": 2,
+      "minecraft:sandstone": 8,
+      "minecraft:ender_pearl": 4,
+      "minecraft:obsidian": 23,
+      "minecraft:fishing_rod": 18
+    },
+    "minecraft:killed": {
+      "minecraft:shulker": 1,
+      "minecraft:copper_golem": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 14822,
+      "minecraft:walk_one_cm": 15805,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_dealt": 420,
+      "minecraft:play_time": 14822,
+      "minecraft:jump": 36,
+      "minecraft:time_since_death": 14822,
+      "minecraft:sprint_one_cm": 1810,
+      "minecraft:total_world_time": 14822,
+      "minecraft:fly_one_cm": 207522,
+      "minecraft:walk_on_water_one_cm": 19,
+      "minecraft:crouch_one_cm": 451,
+      "minecraft:sneak_time": 678
+    }
+  },
+  "DataVersion": 4671
+}
